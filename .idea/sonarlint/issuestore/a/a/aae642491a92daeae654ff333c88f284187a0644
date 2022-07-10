@@ -1,0 +1,11 @@
+
+0
+java:S1220""Move this file to a named package.
+=
+java:S2189""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+S
+java:S1854"6Remove this useless assignment to local variable "sc".(—ë²ÿ8“‰ç¸ž0
+D
+java:S1481"'Remove this unused "sc" local variable.(—ë²ÿ8š‰ç¸ž0
+A
+java:S1481",Remove this unused "carryOn" local variable.(ÿ÷žr
